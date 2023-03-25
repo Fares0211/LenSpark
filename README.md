@@ -4,14 +4,14 @@
 Tout d'abord, nous devons importer les bibliothèques et initialiser Spark
 
 ## 1.	Analyse du jeu de données	
-Ensuite, il est important de s'approprier le jeu de données, notamment en vérifiant les valeurs nulles, en changeant les types de données des colonnes et en identifiant les doublons
+Ensuite, il est important de s'approprier le jeu de données, notamment en vérifiant les valeurs nulles, en changeant les types de données des colonnes et en identifiant les doublons.
  
-Ensuite, nous générons quelques indicateurs sur le jeu de données, à savoir le nombre de films par collection et la liste des genres de films :
+Ensuite, nous générons quelques indicateurs sur le jeu de données, à savoir le nombre de films par collection et la liste des genres de films.
 						
 ## 2.	Modèle de prédiction des recettes et de la moyenne des votes
 Nous mettons en œuvre trois modèles pour effectuer la prédiction des recettes et de la moyenne des votes.
 ### 2.1. Prétraitement
-Pour commencer, une étape obligatoire, le prétraitement :
+Pour commencer, une étape obligatoire, le prétraitement.
 								
 ### 2.2. Premier modèle : régression linéaire	
 						
