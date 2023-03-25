@@ -1,4 +1,4 @@
-# whatMovie
+# whichMovie
 
 ## Chargement											
 Tout d'abord, nous devons importer les bibliothèques et initialiser Spark
